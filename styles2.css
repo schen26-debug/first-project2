@@ -1,0 +1,15 @@
+body{
+  /* background: linear-gradient(to top, #680707, #140b11); */
+  margin:0px;
+  cursor:none;
+}
+
+
+.light {
+  mix-blend-mode:difference;
+  width:250px;
+  height:250px;
+  position: absolute;
+  z-index:0;
+  pointer-events: none
+}
